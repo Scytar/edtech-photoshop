@@ -1,0 +1,9 @@
+1. A primeira fonte é regular com serifa, enquanto a segunda é muito irregular, com transições súbtas e inúmeros detalhamentos.
+
+2. As fontes são regulares porém a diferença do peso delas é muito grande.
+
+3. Ambas são fontes serifadas com tamanho e pesos semelhantes, contrastando harmonicamente.
+
+4. Ambas fontes são regulares, não são serifadas e possuem pesos e tamanhos parecidos.
+
+5. Ignorando a ausência de espaçamentos, ambas as fontes não são serifadas e a diferença de peso gera um contraste não conflitante com as demais características. Possui um efeito de destaque de importância no trecho.
